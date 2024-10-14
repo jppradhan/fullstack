@@ -1,27 +1,24 @@
-# demo
+# README
 
-A Flask app with Test Suite(tox, pytest), Docker, jQuery, Bootstrap, and SQLite(Flask-SQLAlchemy)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-# Getting Started
+Things you may want to cover:
 
-## `make install`
+* Ruby version
 
-- install dependencies
+* System dependencies
 
-## `make start`
+* Configuration
 
-- start flask server
+* Database creation
 
-## `make lint`
+* Database initialization
 
-- lint code with black
-  
+* How to run the test suite
 
-## `make test`
+* Services (job queues, cache servers, search engines, etc.)
 
-- run tox and pytest to test code
-  
+* Deployment instructions
 
----
-
-Generated using [create-flask-app](https://github.com/drizzleco/create-flask-app)
+* ...
